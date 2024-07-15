@@ -13,7 +13,7 @@ import (
 )
 
 func main() {
-    folderPath := "./templates-ias" // Change to your folder path
+    folderPath := "./templates" // Change to your folder path
     logsFolderPath := "./logs"
 
     // unMarshall and generate workloads from YAML
