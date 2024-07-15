@@ -9,8 +9,8 @@ This Go script converts YAML files containing Kubernetes deployment configuratio
 
 ## How to run
 
-- Run the go script
-'go run main.go'
+- Create a folder "template" and move all .yaml file there to be converted. 
+- Run the go script: 'go run main.go'
 
 ## Output files
 
